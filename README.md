@@ -15,4 +15,4 @@ import { NavLink } from 'react-router-dom'
 
 // Shop.js
 
-import { Link } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
